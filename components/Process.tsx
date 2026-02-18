@@ -13,11 +13,11 @@ const Process: React.FC = () => {
     },
     {
       title: "Prototype Validation",
-      description: "Pre-production samples and functional verification of assembly processes."
+      description: "Pre production samples and functional verification of assembly processes."
     },
     {
       title: "Mass Production",
-      description: "High-volume manufacturing aligned with defined technical requirements."
+      description: "High volume manufacturing aligned with defined technical requirements."
     },
     {
       title: "Final Quality Review",

@@ -6,9 +6,9 @@ const Industries: React.FC = () => {
     "Consumer Electronics & Gadgets",
     "LED Desk Lamps & Unique Lighting",
     "Decorative Lighting Systems",
-    "Toy-Standard Compliant Products",
+    "Toy Standard Compliant Products",
     "Branded Promotional Electronics",
-    "Private Label Consumer Goods"
+    "High Performance Hardware"
   ];
 
   return (
@@ -18,7 +18,7 @@ const Industries: React.FC = () => {
           <h2 className="text-xs font-bold tracking-[0.5em] text-gray-400 uppercase mb-4">Market Verticals</h2>
           <h3 className="text-3xl font-black text-gray-900 mb-8 uppercase tracking-tight">Industries Served</h3>
           <p className="text-lg text-gray-600 mb-12 leading-relaxed">
-            The company supports diverse consumer-oriented manufacturing projects, focusing on products that require specialized electronic integration, controlled assembly, and strict technical documentation.
+            The company supports diverse consumer oriented manufacturing projects, focusing on products that require specialized electronic integration, controlled assembly, and strict technical documentation.
           </p>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
             {industries.map((industry, index) => (

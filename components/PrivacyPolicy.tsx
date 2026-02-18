@@ -15,7 +15,7 @@ const PrivacyPolicy: React.FC = () => {
         <div className="prose prose-gray max-w-none space-y-12 text-gray-700 leading-relaxed">
           <section>
             <h2 className="text-sm font-black text-gray-900 mb-4 uppercase tracking-[0.2em] border-b border-gray-100 pb-2">1. Corporate Commitment</h2>
-            <p>MT DIGITAL LLC ("the Company") is a manufacturing and production coordination entity registered in Wyoming, USA. This Privacy Policy describes our strict protocols regarding the handling of business-to-business information and any personally identifiable information (PII) collected via mtdigitalllc.com.</p>
+            <p>MT DIGITAL LLC ("the Company") is a manufacturing and production coordination entity registered in Wyoming, USA. This Privacy Policy describes our strict protocols regarding the handling of business to business information and any personally identifiable information (PII) collected via mtdigitalllc.com.</p>
           </section>
 
           <section>
@@ -36,12 +36,12 @@ const PrivacyPolicy: React.FC = () => {
               <li>Operational feasibility analysis by technical project leads.</li>
               <li>Regulatory compliance reporting as required by Wyoming State and US Federal statutes.</li>
             </ul>
-            <p className="mt-6 font-semibold text-gray-900 underline">MT DIGITAL LLC does not participate in the sale, lease, or trade of professional contact data to third-party marketing brokers.</p>
+            <p className="mt-6 font-semibold text-gray-900 underline">MT DIGITAL LLC does not participate in the sale, lease, or trade of professional contact data to third party marketing brokers.</p>
           </section>
 
           <section>
             <h2 className="text-sm font-black text-gray-900 mb-4 uppercase tracking-[0.2em] border-b border-gray-100 pb-2">4. Data Security Protocols</h2>
-            <p>Treating project data as highly sensitive industrial intellectual property, we utilize institutional-grade encryption for all digital transmissions. Access to partner information is restricted to essential operational personnel under strict Non-Disclosure Agreements (NDA).</p>
+            <p>Treating project data as highly sensitive industrial intellectual property, we utilize institutional grade encryption for all digital transmissions. Access to partner information is restricted to essential operational personnel under strict Non Disclosure Agreements (NDA).</p>
           </section>
 
           <section>

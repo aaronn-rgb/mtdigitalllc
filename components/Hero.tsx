@@ -1,4 +1,3 @@
-
 import React from 'react';
 
 const Hero: React.FC = () => {
@@ -7,9 +6,9 @@ const Hero: React.FC = () => {
       {/* Background Image with Overlay */}
       <div className="absolute inset-0 z-0">
         <img 
-          src="https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&q=80&w=2000" 
-          alt="Advanced Manufacturing Facility" 
-          className="w-full h-full object-cover grayscale opacity-20 brightness-50"
+          src="https://raw.githubusercontent.com/aaronn-rgb/mtdigitalllc/refs/heads/main/IMAGES%20FOR%20THE%20WEB/IMAGES%20FOR%20THE%20WEB%202/Whisk_5f72fcd8b39ba3b938c4527df459e5aedr.png" 
+          alt="Precision Industrial Engineering Environment" 
+          className="w-full h-full object-cover grayscale opacity-20 brightness-75"
         />
         <div className="absolute inset-0 bg-gradient-to-r from-white via-white/90 to-transparent"></div>
       </div>
@@ -25,7 +24,7 @@ const Hero: React.FC = () => {
             & Assembly Coordination
           </h1>
           <p className="text-lg text-gray-700 leading-relaxed max-w-2xl mb-10 font-medium">
-            MT DIGITAL LLC provides high-reliability assembly coordination and production support for specialized consumer electronics. We specialize in <strong>Low, Medium, and High Volume</strong> execution for desk lamps, unique lighting fixtures, electronic gadgets, and toy-compliant products under <strong>Private Label</strong> and OEM models.
+            MT DIGITAL LLC provides high reliability assembly coordination and production support for specialized consumer electronics. We specialize in <strong>Low, Medium, and High Volume</strong> execution for desk lamps, lighting fixtures, electronic gadgets, and toy compliant products.
           </p>
           <div className="flex flex-wrap gap-x-12 gap-y-6 border-t border-gray-200 pt-8">
              <div>
@@ -37,8 +36,8 @@ const Hero: React.FC = () => {
                <span className="text-lg font-bold text-gray-900 uppercase tracking-tight">Scalable Volume</span>
              </div>
              <div>
-               <span className="block text-[10px] font-bold text-gray-400 uppercase tracking-widest mb-1">Focus</span>
-               <span className="text-lg font-bold text-gray-900 uppercase tracking-tight">Private Label Support</span>
+               <span className="block text-[10px] font-bold text-gray-400 uppercase tracking-widest mb-1">Origin</span>
+               <span className="text-lg font-bold text-gray-900 uppercase tracking-tight">Sheridan, Wyoming</span>
              </div>
           </div>
         </div>

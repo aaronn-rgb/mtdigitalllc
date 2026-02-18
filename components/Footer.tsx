@@ -1,4 +1,3 @@
-
 import React from 'react';
 
 interface FooterProps {
@@ -18,7 +17,7 @@ const Footer: React.FC<FooterProps> = ({ setView }) => {
               <span className="text-xl font-bold tracking-tight">MT DIGITAL LLC</span>
             </div>
             <p className="max-w-md mb-8 leading-relaxed text-sm text-gray-500">
-              A US-based manufacturing coordination and assembly entity since 2017. Specializing in consumer electronic assembly, production management, and operational compliance.
+              A US based manufacturing coordination and assembly entity since 2017. Specializing in consumer electronic assembly, production management, and operational compliance.
             </p>
             <div className="flex gap-4">
               <button onClick={() => setView('privacy')} className="text-xs uppercase tracking-widest font-bold hover:text-white transition-colors">Privacy Policy</button>
@@ -42,7 +41,7 @@ const Footer: React.FC<FooterProps> = ({ setView }) => {
             <div className="space-y-4">
               <div className="flex flex-col">
                 <span className="text-[10px] uppercase tracking-tighter text-gray-600 mb-1">Telephone</span>
-                <a href="tel:7603380111" className="text-sm font-medium hover:text-white transition-colors">+1 (760) 338-0111</a>
+                <a href="tel:7603380111" className="text-sm font-medium hover:text-white transition-colors">+1 (760) 338 0111</a>
               </div>
               <div className="flex flex-col">
                 <span className="text-[10px] uppercase tracking-tighter text-gray-600 mb-1">Electronic Mail</span>

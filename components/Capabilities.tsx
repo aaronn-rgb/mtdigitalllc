@@ -1,11 +1,10 @@
-
 import React from 'react';
 
 const Capabilities: React.FC = () => {
   const capabilities = [
     {
-      title: "Private Label Development",
-      desc: "End-to-end coordination for independent brands, focusing on unique product identity, custom laser engraving, and retail-ready outcomes."
+      title: "Manufacturing Infrastructure",
+      desc: "Comprehensive coordination for independent brands, focusing on unique product identity, custom engraving, and market ready outcomes."
     },
     {
       title: "Volume Scalability",
@@ -13,11 +12,11 @@ const Capabilities: React.FC = () => {
     },
     {
       title: "Precision Laser Engraving",
-      desc: "Industrial-grade laser marking for technical components, unique product serials, and high-tolerance aesthetic engravings."
+      desc: "Industrial grade laser marking for technical components, unique product serials, and high tolerance aesthetic engravings."
     },
     {
       title: "Lighting & Gadget Assembly",
-      desc: "Specialized assembly nodes for LED-based desk lamps, electronic gadgets, and custom unique lighting systems."
+      desc: "Specialized assembly nodes for LED based desk lamps, electronic gadgets, and custom unique lighting systems."
     }
   ];
 
@@ -40,9 +39,9 @@ const Capabilities: React.FC = () => {
           </div>
           <div className="flex flex-col gap-8">
             <div className="bg-white border border-gray-200 p-10 rounded-none shadow-sm relative overflow-hidden flex flex-col justify-center h-full">
-                <h4 className="text-lg font-black text-gray-900 mb-4 uppercase tracking-wider">Multi-Volume Capacity</h4>
-                <p className="text-gray-600 leading-relaxed mb-6 text-sm font-medium">
-                  MT DIGITAL LLC specializes in coordinating production runs that match market demand. From Low-Volume validation batches to sustained Mass Production cycles, we ensure technical alignment and cost-efficiency.
+                <h4 className="text-lg font-black text-gray-900 mb-4 uppercase tracking-wider">Multi Volume Capacity</h4>
+                <p className="text-gray-600 leading-relaxed mb-6 text-sm font-medium text-justify">
+                  MT DIGITAL LLC specializes in coordinating production runs that match specific market demand. From Low Volume validation batches to sustained production cycles, we ensure technical alignment and cost efficiency.
                 </p>
                 <div className="flex flex-wrap gap-4">
                   <span className="px-3 py-1 bg-gray-100 text-[10px] font-bold text-gray-500 uppercase tracking-widest border border-gray-200">Low Volume</span>
@@ -52,8 +51,8 @@ const Capabilities: React.FC = () => {
             </div>
             <div className="rounded-none overflow-hidden border border-gray-200 grayscale">
               <img 
-                src="https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?auto=format&fit=crop&q=80&w=1200" 
-                alt="Technical Hardware and Component Review" 
+                src="https://raw.githubusercontent.com/aaronn-rgb/mtdigitalllc/refs/heads/main/3.png" 
+                alt="Analytical Industrial Monitoring" 
                 className="w-full h-64 object-cover hover:scale-105 transition-transform duration-700" 
               />
             </div>
