@@ -30,7 +30,7 @@ const About: React.FC = () => {
           <div className="order-1 lg:order-2">
             <div className="relative h-[600px] bg-gray-100 border border-gray-200 shadow-sm overflow-hidden">
               <img 
-                src="https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&q=80&w=1000" 
+                src="https://raw.githubusercontent.com/aaronn-rgb/mtdigitalllc/refs/heads/main/IMAGES%20FOR%20THE%20WEB/Whisk_e23b5c55910f5a9b05a41dbdd62bb261dr.png" 
                 alt="Technical Quality Inspection" 
                 className="absolute inset-0 w-full h-full object-cover grayscale brightness-75"
               />
